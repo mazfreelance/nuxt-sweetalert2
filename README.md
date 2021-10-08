@@ -1,3 +1,8 @@
+## UPDATE LOG
+- version 9.x to latest version
+## REFORK ON
+https://github.com/ImreC/nuxt-sweetalert2
+
 ## DEPRECATED
 
 Please use vue-sweetalert2 at: https://github.com/avil13/vue-sweetalert2
@@ -12,15 +17,15 @@ Use https://sweetalert2.github.io/ in your next project. Modals, toasters, confi
 Install dependencies:
 
 ```bash
-npm install nuxt-sweetalert2
+npm install @nuxtjs/sweetalert2
 ```
 
-Add `nuxt-sweetalert2` to modules section of `nuxt.config.js`
+Add `@nuxtjs/sweetalert2` to modules section of `nuxt.config.js`
 
 ```JavaScript
 {
   modules: [
-    'nuxt-sweetalert2'
+    '@nuxtjs/sweetalert2'
   ]
 }
 ```
@@ -31,7 +36,7 @@ Or pass in global options like this:
 {
   modules: [
     [
-      'nuxt-sweetalert2',
+      '@nuxtjs/sweetalert2',
       {
         confirmButtonColor: '#FFFFFF'
       }
