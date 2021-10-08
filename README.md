@@ -17,15 +17,15 @@ Use https://sweetalert2.github.io/ in your next project. Modals, toasters, confi
 Install dependencies:
 
 ```bash
-npm install @nuxtjs/sweetalert2
+npm install nuxtjs-sweetalert2
 ```
 
-Add `@nuxtjs/sweetalert2` to modules section of `nuxt.config.js`
+Add `nuxtjs-sweetalert2` to modules section of `nuxt.config.js`
 
 ```JavaScript
 {
   modules: [
-    '@nuxtjs/sweetalert2'
+    'nuxtjs-sweetalert2'
   ]
 }
 ```
@@ -36,7 +36,7 @@ Or pass in global options like this:
 {
   modules: [
     [
-      '@nuxtjs/sweetalert2',
+      'nuxtjs-sweetalert2',
       {
         confirmButtonColor: '#FFFFFF'
       }

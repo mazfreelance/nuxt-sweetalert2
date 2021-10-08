@@ -1,6 +1,6 @@
 {
-  "name": "@nuxtjs/sweetalert2",
-  "version": "2.0.0",
+  "name": "nuxtjs-sweetalert2",
+  "version": "2.0.1",
   "description": "A minimal sweetalert2 module based on vue-sweetalert2 with global options ",
   "main": "src/",
   "scripts": {
