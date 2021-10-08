@@ -15,10 +15,7 @@
     "sweetalert2",
     "notifications"
   ],
-  "author": "Imre Gelens",
-  "contributors": [
-    "Mazfreelance"
-  ],
+  "author": "Mazfreelance",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mazfreelance/nuxt-sweetalert2/issues"
